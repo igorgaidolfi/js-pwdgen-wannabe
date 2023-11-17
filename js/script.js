@@ -6,4 +6,4 @@ let favcolor = prompt('Inserisci il tuo colore preferito')
 console.log(favcolor)
 let year = 23
 console.log(year)
-document.writeln(`${name}${surname}${favcolor}${year}`)
+document.getElementById('pwdgen').innerHTML = (`${name}${surname}${favcolor}${year}`)
