@@ -10,3 +10,10 @@ Tre push obbligatori:
 2 - Creazione del file readme.md
 3 - Creazione dello scaffolding del progetto;
 Suddividete il problema in sottoproblemi come vi ho fatto vedere per il live coding sul calcolo della data di nascita e messaggio di benvenuto mostrato in pagina
+
+PROBLEMA PW GENERATOR:
+1 - Permettere all'utente di inserire il nome
+2 - Permettere all'utente di inserire il cognome
+3 - Permettere all'utente di inserire il colore preferito
+4 - Definire un variabile da aggiungere alla fine della stringa
+5 - Mostrare in html l'unione delle variabili in un unica stringa
